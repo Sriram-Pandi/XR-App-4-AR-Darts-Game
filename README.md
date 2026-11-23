@@ -1,6 +1,8 @@
 # XR App 4 - AR Darts Game 🏹🎯
 
-## 📥 Files Included
+## Downloads and project files
+
+The APK and Unity project are hosted externally using the links below. This repository contains the project documentation.
 - **APK File** - Install and test the AR Darts game on Meta Quest [**Here**](https://drive.google.com/file/d/1aJAYkkURhAynaLokkEMOYC-6VMcK75AY/view?usp=sharing)
 - **Unity Project Files** - Explore the source code and scene setup [**Here**](https://drive.google.com/file/d/1vwTq5-zY5aNoresaAq_qBe05wNYZKDom/view?usp=sharing)
 
