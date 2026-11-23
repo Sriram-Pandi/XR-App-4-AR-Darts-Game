@@ -23,3 +23,7 @@ The APK and Unity project are hosted externally using the links below. This repo
 - **Custom UI elements** for score tracking and game flow
 
 This project showcases **AR-based physics gameplay**, making it a foundation for **augmented reality sports simulations, training applications, and interactive entertainment**. 🚀
+
+## Local evaluation
+
+Use the linked APK for a headset test or extract the Unity project and check its `ProjectVersion.txt` before opening it. On the headset, check board placement, dart interaction, and scoring. Source and build verification require access to the externally hosted project.
